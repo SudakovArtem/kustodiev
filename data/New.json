@@ -1,0 +1,596 @@
+[
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Scentric",
+    "work": "theatrical decoration",
+    "plot": "architecture",
+    "style": "modern",
+    "technics": "pastel",
+    "year": 1879
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Solaren",
+    "work": "sculpture",
+    "plot": "historical scene",
+    "style": "art nouveau",
+    "technics": "pastel",
+    "year": 1925
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Tourmania",
+    "work": "sculpture",
+    "plot": "religious scene",
+    "style": "modern",
+    "technics": "ink",
+    "year": 1906
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Zolarity",
+    "work": "decorative and applied",
+    "plot": "interior",
+    "style": "impressionism",
+    "technics": "lead pencil",
+    "year": 1915
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Daycore",
+    "work": "decorative and applied",
+    "plot": "portrait",
+    "style": "primitivism",
+    "technics": "pastel",
+    "year": 1908
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Cowtown",
+    "work": "painting",
+    "plot": "historical scene",
+    "style": "realism",
+    "technics": "color pencil",
+    "year": 1904
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Envire",
+    "work": "engraving",
+    "plot": "historical scene",
+    "style": "realism",
+    "technics": "gouache",
+    "year": 1918
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Emtrak",
+    "work": "poster",
+    "plot": "genre scene",
+    "style": "primitivism",
+    "technics": "lead pencil",
+    "year": 1881
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Zenolux",
+    "work": "graphics",
+    "plot": "quick search",
+    "style": "realism",
+    "technics": "pen",
+    "year": 1885
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Techtrix",
+    "work": "drawings and illustrations",
+    "plot": "genre scene",
+    "style": "socialist realism",
+    "technics": "oil",
+    "year": 1884
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Pholio",
+    "work": "graphics",
+    "plot": "literary scene",
+    "style": "primitivism",
+    "technics": "graphite",
+    "year": 1893
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Gushkool",
+    "work": "poster",
+    "plot": "literary scene",
+    "style": "socialist realism",
+    "technics": "coal",
+    "year": 1893
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Hometown",
+    "work": "decorative and applied",
+    "plot": "allegorical scene",
+    "style": "primitivism",
+    "technics": "watercolor",
+    "year": 1891
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Voratak",
+    "work": "poster",
+    "plot": "scenery",
+    "style": "modern",
+    "technics": "pastel",
+    "year": 1921
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Providco",
+    "work": "graphics",
+    "plot": "nude",
+    "style": "primitivism",
+    "technics": "pastel",
+    "year": 1925
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Obliq",
+    "work": "theatrical decoration",
+    "plot": "quick search",
+    "style": "impressionism",
+    "technics": "pen",
+    "year": 1889
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Sentia",
+    "work": "engraving",
+    "plot": "nude",
+    "style": "primitivism",
+    "technics": "lead pencil",
+    "year": 1927
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Otherside",
+    "work": "drawings and illustrations",
+    "plot": "historical scene",
+    "style": "primitivism",
+    "technics": "gouache",
+    "year": 1917
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Isodrive",
+    "work": "sculpture",
+    "plot": "nude",
+    "style": "primitivism",
+    "technics": "coal",
+    "year": 1912
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Farmage",
+    "work": "theatrical decoration",
+    "plot": "religious scene",
+    "style": "modern",
+    "technics": "gouache",
+    "year": 1905
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Pearlesex",
+    "work": "drawings and illustrations",
+    "plot": "city landscape",
+    "style": "primitivism",
+    "technics": "ink",
+    "year": 1917
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Digigene",
+    "work": "graphics",
+    "plot": "literary scene",
+    "style": "primitivism",
+    "technics": "pastel",
+    "year": 1901
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Paprikut",
+    "work": "engraving",
+    "plot": "animalism",
+    "style": "socialist realism",
+    "technics": "coal",
+    "year": 1892
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Exerta",
+    "work": "drawings and illustrations",
+    "plot": "portrait",
+    "style": "primitivism",
+    "technics": "pen",
+    "year": 1905
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Assurity",
+    "work": "painting",
+    "plot": "portrait",
+    "style": "modern",
+    "technics": "pen",
+    "year": 1902
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Limozen",
+    "work": "graphics",
+    "plot": "portrait",
+    "style": "socialist realism",
+    "technics": "a piece of chalk",
+    "year": 1901
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Xerex",
+    "work": "engraving",
+    "plot": "quick search",
+    "style": "socialist realism",
+    "technics": "lead pencil",
+    "year": 1915
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Beadzza",
+    "work": "drawings and illustrations",
+    "plot": "architecture",
+    "style": "primitivism",
+    "technics": "watercolor",
+    "year": 1920
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Biflex",
+    "work": "sculpture",
+    "plot": "architecture",
+    "style": "modern",
+    "technics": "a piece of chalk",
+    "year": 1902
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Isbol",
+    "work": "engraving",
+    "plot": "interior",
+    "style": "realism",
+    "technics": "a piece of chalk",
+    "year": 1911
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Sunclipse",
+    "work": "painting",
+    "plot": "religious scene",
+    "style": "modern",
+    "technics": "coal",
+    "year": 1907
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Hinway",
+    "work": "graphics",
+    "plot": "nude",
+    "style": "impressionism",
+    "technics": "ink",
+    "year": 1926
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Geekko",
+    "work": "poster",
+    "plot": "allegorical scene",
+    "style": "realism",
+    "technics": "ink",
+    "year": 1924
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Lumbrex",
+    "work": "poster",
+    "plot": "portrait",
+    "style": "primitivism",
+    "technics": "lead pencil",
+    "year": 1901
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Sureplex",
+    "work": "drawings and illustrations",
+    "plot": "scenery",
+    "style": "socialist realism",
+    "technics": "engraving",
+    "year": 1884
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Buzzmaker",
+    "work": "graphics",
+    "plot": "still life",
+    "style": "surrealism",
+    "technics": "pastel",
+    "year": 1907
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Recognia",
+    "work": "sculpture",
+    "plot": "literary scene",
+    "style": "surrealism",
+    "technics": "engraving",
+    "year": 1906
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Imageflow",
+    "work": "theatrical decoration",
+    "plot": "still life",
+    "style": "surrealism",
+    "technics": "pen",
+    "year": 1891
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Zosis",
+    "work": "poster",
+    "plot": "nude",
+    "style": "art nouveau",
+    "technics": "gouache",
+    "year": 1921
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Quilch",
+    "work": "engraving",
+    "plot": "still life",
+    "style": "primitivism",
+    "technics": "graphite",
+    "year": 1908
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Bulljuice",
+    "work": "engraving",
+    "plot": "historical scene",
+    "style": "modern",
+    "technics": "oil",
+    "year": 1888
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Kaggle",
+    "work": "decorative and applied",
+    "plot": "genre scene",
+    "style": "socialist realism",
+    "technics": "color pencil",
+    "year": 1916
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Nikuda",
+    "work": "sculpture",
+    "plot": "literary scene",
+    "style": "socialist realism",
+    "technics": "ink",
+    "year": 1896
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Hivedom",
+    "work": "theatrical decoration",
+    "plot": "animalism",
+    "style": "socialist realism",
+    "technics": "lead pencil",
+    "year": 1885
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Liquicom",
+    "work": "graphics",
+    "plot": "scenery",
+    "style": "art nouveau",
+    "technics": "lead pencil",
+    "year": 1906
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Anocha",
+    "work": "engraving",
+    "plot": "portrait",
+    "style": "primitivism",
+    "technics": "gouache",
+    "year": 1887
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Plasto",
+    "work": "engraving",
+    "plot": "genre scene",
+    "style": "modern",
+    "technics": "lead pencil",
+    "year": 1904
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Eplosion",
+    "work": "engraving",
+    "plot": "portrait",
+    "style": "impressionism",
+    "technics": "ink",
+    "year": 1910
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Indexia",
+    "work": "drawings and illustrations",
+    "plot": "literary scene",
+    "style": "modern",
+    "technics": "color pencil",
+    "year": 1926
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Typhonica",
+    "work": "graphics",
+    "plot": "literary scene",
+    "style": "surrealism",
+    "technics": "gouache",
+    "year": 1923
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Macronaut",
+    "work": "drawings and illustrations",
+    "plot": "religious scene",
+    "style": "modern",
+    "technics": "engraving",
+    "year": 1879
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Netbook",
+    "work": "engraving",
+    "plot": "genre scene",
+    "style": "modern",
+    "technics": "ink",
+    "year": 1913
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Xsports",
+    "work": "sculpture",
+    "plot": "architecture",
+    "style": "primitivism",
+    "technics": "color pencil",
+    "year": 1879
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Printspan",
+    "work": "painting",
+    "plot": "allegorical scene",
+    "style": "modern",
+    "technics": "watercolor",
+    "year": 1912
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Zillatide",
+    "work": "graphics",
+    "plot": "animalism",
+    "style": "primitivism",
+    "technics": "ink",
+    "year": 1907
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Dogspa",
+    "work": "sculpture",
+    "plot": "quick search",
+    "style": "impressionism",
+    "technics": "oil",
+    "year": 1901
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Virxo",
+    "work": "engraving",
+    "plot": "allegorical scene",
+    "style": "modern",
+    "technics": "pastel",
+    "year": 1890
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Interfind",
+    "work": "poster",
+    "plot": "portrait",
+    "style": "surrealism",
+    "technics": "oil",
+    "year": 1920
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Hotcakes",
+    "work": "theatrical decoration",
+    "plot": "scenery",
+    "style": "surrealism",
+    "technics": "a piece of chalk",
+    "year": 1884
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Eclipto",
+    "work": "sculpture",
+    "plot": "portrait",
+    "style": "impressionism",
+    "technics": "pen",
+    "year": 1910
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Imaginart",
+    "work": "graphics",
+    "plot": "historical scene",
+    "style": "realism",
+    "technics": "color pencil",
+    "year": 1897
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Virva",
+    "work": "theatrical decoration",
+    "plot": "quick search",
+    "style": "modern",
+    "technics": "pastel",
+    "year": 1900
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Solgan",
+    "work": "drawings and illustrations",
+    "plot": "architecture",
+    "style": "impressionism",
+    "technics": "pastel",
+    "year": 1904
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Gluid",
+    "work": "decorative and applied",
+    "plot": "quick search",
+    "style": "primitivism",
+    "technics": "ink",
+    "year": 1895
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Zilphur",
+    "work": "decorative and applied",
+    "plot": "genre scene",
+    "style": "art nouveau",
+    "technics": "engraving",
+    "year": 1882
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Gonkle",
+    "work": "decorative and applied",
+    "plot": "interior",
+    "style": "surrealism",
+    "technics": "pastel",
+    "year": 1927
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Medalert",
+    "work": "sculpture",
+    "plot": "still life",
+    "style": "impressionism",
+    "technics": "gouache",
+    "year": 1881
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Amril",
+    "work": "painting",
+    "plot": "interior",
+    "style": "realism",
+    "technics": "coal",
+    "year": 1918
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Metroz",
+    "work": "painting",
+    "plot": "quick search",
+    "style": "primitivism",
+    "technics": "pen",
+    "year": 1882
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Musanpoly",
+    "work": "drawings and illustrations",
+    "plot": "interior",
+    "style": "modern",
+    "technics": "pen",
+    "year": 1911
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Kneedles",
+    "work": "painting",
+    "plot": "quick search",
+    "style": "primitivism",
+    "technics": "pen",
+    "year": 1923
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Vidto",
+    "work": "graphics",
+    "plot": "literary scene",
+    "style": "socialist realism",
+    "technics": "pastel",
+    "year": 1890
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Farmex",
+    "work": "painting",
+    "plot": "city landscape",
+    "style": "modern",
+    "technics": "engraving",
+    "year": 1893
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Elpro",
+    "work": "sculpture",
+    "plot": "genre scene",
+    "style": "impressionism",
+    "technics": "coal",
+    "year": 1911
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Ginkogene",
+    "work": "theatrical decoration",
+    "plot": "scenery",
+    "style": "socialist realism",
+    "technics": "engraving",
+    "year": 1904
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Waterbaby",
+    "work": "decorative and applied",
+    "plot": "historical scene",
+    "style": "impressionism",
+    "technics": "oil",
+    "year": 1887
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Zerbina",
+    "work": "decorative and applied",
+    "plot": "religious scene",
+    "style": "realism",
+    "technics": "ink",
+    "year": 1922
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Visualix",
+    "work": "drawings and illustrations",
+    "plot": "scenery",
+    "style": "art nouveau",
+    "technics": "engraving",
+    "year": 1884
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Pathways",
+    "work": "decorative and applied",
+    "plot": "scenery",
+    "style": "primitivism",
+    "technics": "lead pencil",
+    "year": 1878
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Megall",
+    "work": "poster",
+    "plot": "interior",
+    "style": "impressionism",
+    "technics": "graphite",
+    "year": 1888
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Pushcart",
+    "work": "decorative and applied",
+    "plot": "city landscape",
+    "style": "impressionism",
+    "technics": "lead pencil",
+    "year": 1915
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Pigzart",
+    "work": "decorative and applied",
+    "plot": "portrait",
+    "style": "art nouveau",
+    "technics": "pen",
+    "year": 1902
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Ohmnet",
+    "work": "engraving",
+    "plot": "genre scene",
+    "style": "modern",
+    "technics": "engraving",
+    "year": 1915
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Oronoko",
+    "work": "graphics",
+    "plot": "nude",
+    "style": "realism",
+    "technics": "color pencil",
+    "year": 1920
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Quonk",
+    "work": "sculpture",
+    "plot": "genre scene",
+    "style": "modern",
+    "technics": "coal",
+    "year": 1884
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Moreganic",
+    "work": "theatrical decoration",
+    "plot": "scenery",
+    "style": "socialist realism",
+    "technics": "gouache",
+    "year": 1908
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Lunchpod",
+    "work": "theatrical decoration",
+    "plot": "architecture",
+    "style": "surrealism",
+    "technics": "color pencil",
+    "year": 1917
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Unia",
+    "work": "sculpture",
+    "plot": "still life",
+    "style": "modern",
+    "technics": "engraving",
+    "year": 1922
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Quility",
+    "work": "graphics",
+    "plot": "religious scene",
+    "style": "surrealism",
+    "technics": "lead pencil",
+    "year": 1906
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Qot",
+    "work": "engraving",
+    "plot": "quick search",
+    "style": "primitivism",
+    "technics": "gouache",
+    "year": 1918
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Comfirm",
+    "work": "painting",
+    "plot": "literary scene",
+    "style": "art nouveau",
+    "technics": "oil",
+    "year": 1908
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Corporana",
+    "work": "painting",
+    "plot": "allegorical scene",
+    "style": "socialist realism",
+    "technics": "ink",
+    "year": 1901
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Zoarere",
+    "work": "poster",
+    "plot": "nude",
+    "style": "impressionism",
+    "technics": "graphite",
+    "year": 1925
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Quizmo",
+    "work": "graphics",
+    "plot": "scenery",
+    "style": "impressionism",
+    "technics": "oil",
+    "year": 1927
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Acium",
+    "work": "engraving",
+    "plot": "religious scene",
+    "style": "realism",
+    "technics": "watercolor",
+    "year": 1916
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Prosely",
+    "work": "sculpture",
+    "plot": "city landscape",
+    "style": "realism",
+    "technics": "gouache",
+    "year": 1913
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Petigems",
+    "work": "poster",
+    "plot": "religious scene",
+    "style": "art nouveau",
+    "technics": "oil",
+    "year": 1915
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Recognia",
+    "work": "drawings and illustrations",
+    "plot": "interior",
+    "style": "primitivism",
+    "technics": "gouache",
+    "year": 1927
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Enaut",
+    "work": "drawings and illustrations",
+    "plot": "quick search",
+    "style": "impressionism",
+    "technics": "a piece of chalk",
+    "year": 1898
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Earthpure",
+    "work": "poster",
+    "plot": "quick search",
+    "style": "impressionism",
+    "technics": "engraving",
+    "year": 1912
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Datacator",
+    "work": "sculpture",
+    "plot": "city landscape",
+    "style": "socialist realism",
+    "technics": "a piece of chalk",
+    "year": 1920
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Gronk",
+    "work": "graphics",
+    "plot": "quick search",
+    "style": "realism",
+    "technics": "watercolor",
+    "year": 1908
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Imperium",
+    "work": "drawings and illustrations",
+    "plot": "interior",
+    "style": "surrealism",
+    "technics": "a piece of chalk",
+    "year": 1922
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Talkola",
+    "work": "sculpture",
+    "plot": "historical scene",
+    "style": "impressionism",
+    "technics": "oil",
+    "year": 1907
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Nimon",
+    "work": "drawings and illustrations",
+    "plot": "still life",
+    "style": "impressionism",
+    "technics": "watercolor",
+    "year": 1897
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Zilencio",
+    "work": "decorative and applied",
+    "plot": "nude",
+    "style": "surrealism",
+    "technics": "pen",
+    "year": 1890
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Everest",
+    "work": "poster",
+    "plot": "genre scene",
+    "style": "modern",
+    "technics": "engraving",
+    "year": 1891
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Quordate",
+    "work": "poster",
+    "plot": "portrait",
+    "style": "primitivism",
+    "technics": "a piece of chalk",
+    "year": 1894
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Poshome",
+    "work": "sculpture",
+    "plot": "nude",
+    "style": "surrealism",
+    "technics": "pastel",
+    "year": 1914
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Irack",
+    "work": "painting",
+    "plot": "scenery",
+    "style": "art nouveau",
+    "technics": "color pencil",
+    "year": 1926
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Egypto",
+    "work": "theatrical decoration",
+    "plot": "still life",
+    "style": "impressionism",
+    "technics": "gouache",
+    "year": 1921
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Slofast",
+    "work": "drawings and illustrations",
+    "plot": "quick search",
+    "style": "surrealism",
+    "technics": "gouache",
+    "year": 1898
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Biotica",
+    "work": "theatrical decoration",
+    "plot": "historical scene",
+    "style": "impressionism",
+    "technics": "pen",
+    "year": 1884
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Viagreat",
+    "work": "drawings and illustrations",
+    "plot": "nude",
+    "style": "impressionism",
+    "technics": "watercolor",
+    "year": 1885
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Maineland",
+    "work": "drawings and illustrations",
+    "plot": "quick search",
+    "style": "surrealism",
+    "technics": "watercolor",
+    "year": 1891
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Isologics",
+    "work": "painting",
+    "plot": "quick search",
+    "style": "primitivism",
+    "technics": "gouache",
+    "year": 1907
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Exoteric",
+    "work": "poster",
+    "plot": "still life",
+    "style": "realism",
+    "technics": "engraving",
+    "year": 1895
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Gynk",
+    "work": "theatrical decoration",
+    "plot": "scenery",
+    "style": "realism",
+    "technics": "watercolor",
+    "year": 1878
+  },
+  {
+    "img": "//via.placeholder.com/280x317/FF0000",
+    "name": "Anixang",
+    "work": "graphics",
+    "plot": "religious scene",
+    "style": "art nouveau",
+    "technics": "graphite",
+    "year": 1911
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Klugger",
+    "work": "sculpture",
+    "plot": "interior",
+    "style": "socialist realism",
+    "technics": "pastel",
+    "year": 1897
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Venoflex",
+    "work": "graphics",
+    "plot": "interior",
+    "style": "modern",
+    "technics": "coal",
+    "year": 1915
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Ziore",
+    "work": "poster",
+    "plot": "genre scene",
+    "style": "primitivism",
+    "technics": "coal",
+    "year": 1911
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Quilm",
+    "work": "graphics",
+    "plot": "nude",
+    "style": "modern",
+    "technics": "graphite",
+    "year": 1927
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Medicroix",
+    "work": "drawings and illustrations",
+    "plot": "literary scene",
+    "style": "socialist realism",
+    "technics": "graphite",
+    "year": 1902
+  },
+  {
+    "img": "//via.placeholder.com/280x317/A52A2A",
+    "name": "Hivedom",
+    "work": "poster",
+    "plot": "religious scene",
+    "style": "socialist realism",
+    "technics": "graphite",
+    "year": 1913
+  },
+  {
+    "img": "//via.placeholder.com/280x317/008000",
+    "name": "Fangold",
+    "work": "poster",
+    "plot": "animalism",
+    "style": "primitivism",
+    "technics": "oil",
+    "year": 1879
+  },
+  {
+    "img": "//via.placeholder.com/280x317/0000FF",
+    "name": "Centregy",
+    "work": "sculpture",
+    "plot": "interior",
+    "style": "surrealism",
+    "technics": "gouache",
+    "year": 1902
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Lingoage",
+    "work": "poster",
+    "plot": "genre scene",
+    "style": "impressionism",
+    "technics": "pen",
+    "year": 1882
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Spacewax",
+    "work": "theatrical decoration",
+    "plot": "genre scene",
+    "style": "socialist realism",
+    "technics": "watercolor",
+    "year": 1927
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Vendblend",
+    "work": "poster",
+    "plot": "literary scene",
+    "style": "realism",
+    "technics": "pastel",
+    "year": 1899
+  },
+  {
+    "img": "//via.placeholder.com/280x317/00BFFF",
+    "name": "Stralum",
+    "work": "theatrical decoration",
+    "plot": "nude",
+    "style": "surrealism",
+    "technics": "a piece of chalk",
+    "year": 1894
+  },
+  {
+    "img": "//via.placeholder.com/280x317/9370DB",
+    "name": "Olucore",
+    "work": "drawings and illustrations",
+    "plot": "portrait",
+    "style": "realism",
+    "technics": "coal",
+    "year": 1913
+  }
+]
